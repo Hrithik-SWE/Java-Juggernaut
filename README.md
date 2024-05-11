@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?size=626&ext=jpg&ga=GA1.1.1237455001.1715450712&semt=ais_user" align="center" style="width: 100%" />
 </div>  
   
 
