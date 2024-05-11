@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"><h2>👨‍💻I'm Hrithik Saxena, I am  a Passionate Software Engineer  🚀</h2></div>  
+### <div align="center"><h2>👨‍💻I'm Hrithik Saxena, A Passionate Software Engineer  🚀</h2></div>  
   
 
 - 🔭 I’m currently working on Mobile App Projects  
