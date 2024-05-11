@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.freepik.com/free-photo/retro-digital-art-illustration-person-using-radio-technology_23-2151355979.jpg?t=st=1715451259~exp=1715454859~hmac=dd49a7e3b55e1ade332feb6740ddda529c14b92ccc1cfd1902b5a9cc5bfed9ab&w=2000" align="center" style="width: 100% " />
+<img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1715451652~exp=1715455252~hmac=251914927b7a5e0f43d88d3ee6ed4135715105217cbf1cd64bc2ba9127a469ae&w=2000" align="center" style="width: 100% " />
 </div>  
   
 
