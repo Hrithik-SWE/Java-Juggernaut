@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1715451652~exp=1715455252~hmac=251914927b7a5e0f43d88d3ee6ed4135715105217cbf1cd64bc2ba9127a469ae&w=2000" align="center" style="width: 100% " />
+<!-- <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1715451652~exp=1715455252~hmac=251914927b7a5e0f43d88d3ee6ed4135715105217cbf1cd64bc2ba9127a469ae&w=2000" align="center" style="width: 100% " />
 </div>  
-  
+   -->
 
 ### <div align="center"><h2>👨‍💻I'm Hrithik Saxena, A Passionate Software Engineer  🚀</h2></div>  
   
