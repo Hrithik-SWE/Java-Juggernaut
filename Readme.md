@@ -104,9 +104,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Java-Juggernaut&&style=flat-square" align="center" />
-</div>  
+ 
   
 
 <br/>  
